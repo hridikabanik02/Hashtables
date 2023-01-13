@@ -1,0 +1,7 @@
+Output of Bonus Part
+Statistics for Quadratic probing=
+
+Average reads/record=1.85
+Longest chain= 21
+Hash Efficiency is= 38.56 %
+Load Factor is=71.43 %

@@ -1,0 +1,6 @@
+Statistics of Linear probing=
+
+Average reads/record=2.33
+Longest chain= 76
+Hash Efficiency is= 30.68 %
+Load Factor i=:71.43 %
